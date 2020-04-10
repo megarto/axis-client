@@ -1,68 +1,64 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Ini dibuat dengan [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## git clone https://github.com/adipatiarya/axis-client.git
+## cd axis-client
 
-In the project directory, you can run:
+### `npm install`
+Menginstall Semua dependecy yg dibutuhkan.
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Menjalankan Aplikasi pada dev mode.<br />
+Buka [http://localhost:3000](http://localhost:3000) untuk  melihat di browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Halaman akan direload Jika anda melakukan pengeditan.<br />
+Anda juga akan melihat log error di terminal atau cmd.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Build aplikasi berada di  folder `build`.<br />
+Anda bisa menguploadnya di server apache nginix, dll.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Join Group Free
 
-### `npm run eject`
+Anda bisa belajar dari 0 untuk bisa membuat app semacam ini [CALON MASTA SECTION 1](https://web.facebook.com/groups/calonmasta.section01/).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Untuk belajar Java script dari 0, Diajarin langsung oleh saya melalui live video.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Join Group Lanjutan
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Group lanjutan se [CALON MASTA SECTION 2](https://web.facebook.com/groups/calonmasta.section01/).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Secara Garis Besar Mempelajari tentang
 
-## Learn More
+# Basic HTML
+# FUNDAMENTAL JAVA SCRIPT
+# FRONT-END Menggunakan React
+# BACK-END Menggunakan nodejs
+# Firebase
+# Upload ke server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+untuk detailnya akan dibahas di grup.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+TUJUAN KURSUS :
 
-### Code Splitting
+  Para peserta diharapkan mampu mengusai fundamental JAVA SCRIP.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+  Para peserta diharapkan mampu menggunakan css bootsrap, materialui,
+   
+  Para peserta diharapkan mampu membuat aplikasi menggunakan framework react sebagai front-end dan express-js sebagai backendnya,
+   
+  Para peserta diharapkan mampu membuat aplikasi Semacam webfilm, ecommerce,
+  webssh, berita atau news,
 
-### Analyzing the Bundle Size
+  Para peserta diharapkan mampu bersaing di dunia canggih sekarang ini, bukan sebagai penonton
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Dikenakan biaya Rp 1jt diajarkan dari 0 sampe bener2 bisa dengan tujuan supaya serius belajar bukan sekedar iseng2. 
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+YANG MAU JOIN BELAJAR [LINK FB](https://web.facebook.com/adipati.aarya).
+atau CONTACT WA VIA 0812 9120 2810.
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
