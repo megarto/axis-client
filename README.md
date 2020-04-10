@@ -20,41 +20,17 @@ Build aplikasi berada di  folder `build`.<br />
 Anda bisa menguploadnya di server apache nginix, dll.
 
 
-### Join Group Free
+### `KURSUS ONLINE Free`
 
 Anda bisa belajar dari 0 untuk bisa membuat app semacam ini [CALON MASTA SECTION 1](https://web.facebook.com/groups/calonmasta.section01/).
 
 Untuk belajar Java script dari 0, Diajarin langsung oleh saya melalui live video.
 
-### Join Group Lanjutan
+### `KURSUS ONLINE Lanjutan`
 
 Group lanjutan se [CALON MASTA SECTION 2](https://web.facebook.com/groups/calonmasta.section01/).
 
-Secara Garis Besar Mempelajari tentang
-
-# Basic HTML
-# FUNDAMENTAL JAVA SCRIPT
-# FRONT-END Menggunakan React
-# BACK-END Menggunakan nodejs
-# Firebase
-# Upload ke server
-
-untuk detailnya akan dibahas di grup.
-
-TUJUAN KURSUS :
-
-  Para peserta diharapkan mampu mengusai fundamental JAVA SCRIP.
-
-  Para peserta diharapkan mampu menggunakan css bootsrap, materialui,
-   
-  Para peserta diharapkan mampu membuat aplikasi menggunakan framework react sebagai front-end dan express-js sebagai backendnya,
-   
-  Para peserta diharapkan mampu membuat aplikasi Semacam webfilm, ecommerce,
-  webssh, berita atau news,
-
-  Para peserta diharapkan mampu bersaing di dunia canggih sekarang ini, bukan sebagai penonton
-
-
+Secara garis Besar mempelajari tentang basic HTML , basic javascript , frontend Menggunakan React, backend Menggunakan nodejs, Firebase ,Upload ke server
 
 Dikenakan biaya Rp 1jt diajarkan dari 0 sampe bener2 bisa dengan tujuan supaya serius belajar bukan sekedar iseng2. 
 
