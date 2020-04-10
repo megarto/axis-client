@@ -1,5 +1,2828 @@
-[
-    {"pkgid":"123456", "title":"Test 2GB Rp.5000"},
-    {"pkgid":"3212255", "title":"Ini hanya test"},
-    {"pkgid":"3212256", "title":"Ini hanya test 2"}
-]
+{
+    "username": "axisnet",
+    "password": "52c9abe3bcc73193282995ba27c3d30c",
+    "txid": "",
+    "status": "1",
+    "unread": 0,
+    "version": "3064.13",
+    "0": {
+        "result": [
+            {
+                "menu": {
+                    "0": "BELI PAKET",
+                    "@attributes": {
+                        "href": "#package",
+                        "hrefweb": "#package",
+                        "id": "6",
+                        "parentid": "0",
+                        "gid": "20",
+                        "group": "Beranda",
+                        "icon": "N",
+                        "hex": "36",
+                        "desc": "",
+                        "position": "18"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO AXIS",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0021",
+                        "parentid": "6",
+                        "gid": "13",
+                        "group": "Recommended",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket Rekomendasi merupakan paket promo yang dikhususkan untuk kamu-kamu yang jadi pelanggan setia kami.",
+                        "position": "84"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PAKET SUNRISE 06-10",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0021_001",
+                        "parentid": "6_0021",
+                        "gid": "13",
+                        "group": "Recommended",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "PAKET SUNRISE",
+                        "position": "54",
+                        "isUpsell": "0",
+                        "pkgid": "3212969",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "<b>Kuota : </b>2GB<br>Kuota internetan biar Sahur makin manjur! Browsing, nonton, download, games semua bisa! di jam 06-10<br></b><b>Masa Aktif : </b>7 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 1GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0021_002",
+                        "parentid": "6_0021",
+                        "gid": "13",
+                        "group": "Recommended",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 1GB",
+                        "position": "55",
+                        "isUpsell": "0",
+                        "pkgid": "3212980",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "<b>Kuota : </b>1GB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 2GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0021_003",
+                        "parentid": "6_0021",
+                        "gid": "13",
+                        "group": "Recommended",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 2GB",
+                        "position": "56",
+                        "isUpsell": "0",
+                        "pkgid": "3212981",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "<b>Kuota : </b>2GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 1GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0021_004",
+                        "parentid": "6_0021",
+                        "gid": "13",
+                        "group": "Recommended",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 1GB",
+                        "position": "57",
+                        "isUpsell": "0",
+                        "pkgid": "3212966",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "<b>Kuota : </b>1GB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 2GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0021_005",
+                        "parentid": "6_0021",
+                        "gid": "13",
+                        "group": "Recommended",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 2GB",
+                        "position": "58",
+                        "isUpsell": "0",
+                        "pkgid": "3212967",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "<b>Kuota : </b>2GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO JUMAT BAIK",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0028",
+                        "parentid": "6",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket Rekomendasi merupakan paket promo yang dikhususkan untuk kamu-kamu yang jadi pelanggan setia kami.  Paket dengan pemakaian kuota data dari jam 00-23.59 di jaringan 2G/3G/4G Seharian”",
+                        "position": "85"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO BRONET 16GB 60hr     ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0028_001",
+                        "parentid": "6_0028",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "CRRBR16",
+                        "hex": "",
+                        "desc": "BRONET24Jam 16GB",
+                        "position": "66",
+                        "isUpsell": "0",
+                        "pkgid": "3213091",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "16GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.139900</font></strike><br>Masa Aktif 60 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "97900",
+                        "confirmDesc": "Kamu memilih Paket BRONET 16GB selama 24 JAM 60 hari. Hanya Rp97.900 di JUMAT BAIK"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO BRONET 8GB 30hr   ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0028_002",
+                        "parentid": "6_0028",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "CRRBR8",
+                        "hex": "",
+                        "desc": "BRONET24Jam 8GB",
+                        "position": "67",
+                        "isUpsell": "0",
+                        "pkgid": "3213088",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "8GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "59900",
+                        "confirmDesc": "Kamu memilih Paket BRONET 8GB selama 24 JAM 30 hari. Hanya Rp59.900 di JUMAT BAIK"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO BRONET 5GB 30hr  ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0028_003",
+                        "parentid": "6_0028",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "CRRBR5",
+                        "hex": "",
+                        "desc": "BRONET24Jam 5GB",
+                        "position": "68",
+                        "isUpsell": "0",
+                        "pkgid": "3213087",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "5GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "45900",
+                        "confirmDesc": "Kamu memilih Paket BRONET 5GB selama 24 JAM 30 hari. Hanya Rp45.900 di JUMAT BAIK"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO BRONET 3GB 30hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0028_004",
+                        "parentid": "6_0028",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "CRRBR3",
+                        "hex": "",
+                        "desc": "BRONET24Jam 3GB",
+                        "position": "69",
+                        "isUpsell": "0",
+                        "pkgid": "3213086",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "29900",
+                        "confirmDesc": "Kamu memilih Paket BRONET 3GB selama 24 JAM 30 hari. Hanya Rp29.900 di JUMAT BAIK"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM 16GB + Unli Games 30hr Rp39.900",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0028_005",
+                        "parentid": "6_0028",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "CROW16C",
+                        "hex": "",
+                        "desc": "OWSEM 16GB + Unli Games 30hr Rp39.900",
+                        "position": "70",
+                        "isUpsell": "0",
+                        "pkgid": "3213108",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "16GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "39900",
+                        "confirmDesc": "Kamu pilih OWSEM 16GB + Unli Games 30hr Rp39900 utk 30hr Hanya Rp 39900 di JUMAT BAIK"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24 JAM 30hr",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0005",
+                        "parentid": "6",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BRONET yang IRIT Banget bisa Internetan seharian 24 Jam di jaringan 2G/3G/4G kapan aja, dimana aja. Tersedia paket Harian, Mingguan, Bulanan",
+                        "position": "86"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 1GB (15% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_001",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET1",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 1GB (15% OFF)",
+                        "position": "16",
+                        "isUpsell": "0",
+                        "pkgid": "3213042",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.19900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "16900",
+                        "confirmDesc": "<b>Kuota : </b>1GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 2GB (17% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_002",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET2",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 2GB (17% OFF)",
+                        "position": "17",
+                        "isUpsell": "0",
+                        "pkgid": "3213043",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.29900</font></strike><br>Masa Aktif 30 hari<br>",
+                        "pkgtype": "recur",
+                        "price": "24900",
+                        "confirmDesc": "<b>Kuota : </b>2GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 3GB (23% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_003",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET3",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 3GB (23% OFF)",
+                        "position": "18",
+                        "isUpsell": "0",
+                        "pkgid": "3213044",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.39900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "30900",
+                        "confirmDesc": "<b>Kuota : </b>3GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 5GB (22% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_004",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET5",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 5GB (22% OFF)",
+                        "position": "19",
+                        "isUpsell": "0",
+                        "pkgid": "3213045",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "5GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.59900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "46900",
+                        "confirmDesc": "<b>Kuota : </b>5GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 8GB (24% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_005",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET8",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 8GB (24% OFF)",
+                        "position": "20",
+                        "isUpsell": "0",
+                        "pkgid": "3213046",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "8GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.82900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "62900",
+                        "confirmDesc": "<b>Kuota : </b>8GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 10GB (23% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_006",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET10",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 10GB (23% OFF)",
+                        "position": "21",
+                        "isUpsell": "0",
+                        "pkgid": "3213047",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "10GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.97900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "74900",
+                        "confirmDesc": "<b>Kuota : </b>10GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 12GB (24% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_007",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET12",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 12GB (24% OFF)",
+                        "position": "22",
+                        "isUpsell": "0",
+                        "pkgid": "3213048",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "12GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.110900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "83900",
+                        "confirmDesc": "<b>Kuota : </b>12GB (2G/3G/4G)<br><b>Masa Aktif : </b>30 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#.</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "PROMO BRONET 16GB 60hr     ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0005_008",
+                        "parentid": "6_0005",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRONET16",
+                        "hex": "",
+                        "desc": "BRONET24Jam 16GB",
+                        "position": "23",
+                        "isUpsell": "0",
+                        "pkgid": "3213091",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "16GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.139900</font></strike><br>Masa Aktif 60 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "97900",
+                        "confirmDesc": "Kamu memilih Paket BRONET 16GB selama 24 JAM 60 hari. Hanya Rp97.900 di JUMAT BAIK"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24 JAM 7hr",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0004",
+                        "parentid": "6",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BRONET yang IRIT Banget dengan kuota dibagi dari jam 00-06 & 00-23:59 di jaringan 2G/3G/4G. Tersedia paket Harian, Mingguan, Bulanan",
+                        "position": "87"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 1GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0004_001",
+                        "parentid": "6_0004",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 1GB 7hr",
+                        "position": "10",
+                        "isUpsell": "0",
+                        "pkgid": "3213060",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "10900",
+                        "confirmDesc": "<b>Kuota: </b>1GB (2G/3G/4G)<br><b>Masa Aktif: </b>7 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 1.5GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0004_002",
+                        "parentid": "6_0004",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 1.5GB 7hr",
+                        "position": "11",
+                        "isUpsell": "0",
+                        "pkgid": "3213169",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1.5GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "13500",
+                        "confirmDesc": "<b>Kuota: </b>1.5GB (2G/3G/4G)<br><b>Masa Aktif: </b>7 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 2GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0004_003",
+                        "parentid": "6_0004",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 2GB 7hr",
+                        "position": "12",
+                        "isUpsell": "0",
+                        "pkgid": "3213061",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "15900",
+                        "confirmDesc": "<b>Kuota: </b>2GB (2G/3G/4G)<br><b>Masa Aktif: </b>7 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 3GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0004_004",
+                        "parentid": "6_0004",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 3GB 7hr",
+                        "position": "13",
+                        "isUpsell": "0",
+                        "pkgid": "3213062",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "17900",
+                        "confirmDesc": "<b>Kuota: </b>3GB (2G/3G/4G)<br><b>Masa Aktif: </b>7 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 5GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0004_005",
+                        "parentid": "6_0004",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 5GB 7hr",
+                        "position": "14",
+                        "isUpsell": "0",
+                        "pkgid": "3213063",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "5GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "19900",
+                        "confirmDesc": "<b>Kuota: </b>5GB (2G/3G/4G)<br><b>Masa Aktif: </b>7 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 8GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0004_006",
+                        "parentid": "6_0004",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 8GB 7hr",
+                        "position": "15",
+                        "isUpsell": "0",
+                        "pkgid": "3213777",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "8GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "25900",
+                        "confirmDesc": "<b>Kuota: </b>8GB (2G/3G/4G)<br><b>Masa Aktif: </b>7 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24 JAM 1hr",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0003",
+                        "parentid": "6",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "BRO1GB",
+                        "hex": "BRO",
+                        "desc": "Paket BRONET yang IRIT Banget bisa Internetan seharian 24 Jam di jaringan 2G/3G/4G kapan aja, dimana aja. Tersedia paket Harian, Mingguan, Bulanan",
+                        "position": "88"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 500MB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0003_001",
+                        "parentid": "6_0003",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 500MB 1hr",
+                        "position": "6",
+                        "isUpsell": "0",
+                        "pkgid": "3213163",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "500MB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "4000",
+                        "confirmDesc": "<b>Kuota: </b>500MB (2G/3G/4G)<br><b>Masa Aktif: </b>1 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 1GB 1hr (20% OFF)",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0003_002",
+                        "parentid": "6_0003",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 1GB 1hr (20% OFF)",
+                        "position": "7",
+                        "isUpsell": "0",
+                        "pkgid": "3213552",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.6000</font></strike><br>Masa Aktif 1 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "4900",
+                        "confirmDesc": "<b>Kuota: </b>1GB (2G/3G/4G)<br><b>Masa Aktif: </b>1 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 2GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0003_003",
+                        "parentid": "6_0003",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 2GB 1hr",
+                        "position": "8",
+                        "isUpsell": "0",
+                        "pkgid": "3213165",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "7900",
+                        "confirmDesc": "<b>Kuota: </b>2GB (2G/3G/4G)<br><b>Masa Aktif: </b>1 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BRONET 24Jam 3GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0003_004",
+                        "parentid": "6_0003",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BRONET 24Jam 3GB 1hr",
+                        "position": "9",
+                        "isUpsell": "0",
+                        "pkgid": "3213166",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "8900",
+                        "confirmDesc": "<b>Kuota: </b>3GB (2G/3G/4G)<br><b>Masa Aktif: </b>1 Hari<br>Bagi Kamu yang masih aktif Paket AXISPRO/GAUL Unlimited, UNREG pkt terlebih dahulu di *123*7#."
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM   ",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0002",
+                        "parentid": "6",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket Internet dengan kuota Unlimited Gaming pertama di indonesia!\r\n<br>Paket Internet All-in-one untuk 30 hari dengan 5 jenis kuota :</br>\r\n<br>- Kuota Utama 2G/3G/4G</br>\r\n<br>- Kuota Malam 00-06.00 WIB</br>\r\n<br>- Kuota Sosmed</br>\r\n<br>- Kuota Musik</br>\r\n<br>- Unlimited Games</br>",
+                        "position": "89"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM 16GB + Unli Games 9%",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0002_001",
+                        "parentid": "6_0002",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "OWSEM16",
+                        "hex": "",
+                        "desc": "OWSEM 16GB + Unli Games 9%",
+                        "position": "1",
+                        "isUpsell": "0",
+                        "pkgid": "3212961",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "16GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.43900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "39900",
+                        "confirmDesc": "<b>Kuota Utama: </b>2GB<br><b>Kuota Sosmed+Musik: </b>4GB+4GB<br><b>Kuota Malam+Unlimited games: </b><br>6 GB ( Jam 00-06 )<br></b><b>Masa Aktif : </b>30 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM 24GB + Unli Games 7%",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0002_002",
+                        "parentid": "6_0002",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "OWSEM24",
+                        "hex": "",
+                        "desc": "OWSEM 24GB + Unli Games 7%",
+                        "position": "2",
+                        "isUpsell": "0",
+                        "pkgid": "3212962",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "24GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.55900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "51900",
+                        "confirmDesc": "<b>Kuota Utama: </b>3GB<br><b>Kuota Sosmed+Musik: </b>6GB+6GB<br><b>Kuota Malam+Unlimited games: </b><br>9GB ( Jam 00-06 )<br></b><b>Masa Aktif : </b>30 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM 32GB + Unli Games 9%",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0002_003",
+                        "parentid": "6_0002",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "OWSEM32",
+                        "hex": "",
+                        "desc": "OWSEM 32GB + Unli Games 9%",
+                        "position": "3",
+                        "isUpsell": "0",
+                        "pkgid": "3212963",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "32GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.65900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "59900",
+                        "confirmDesc": "<b>Kuota Utama: </b>4GB<br><b>Kuota Sosmed+Musik: </b>8GB+8GB<br><b>Kuota Malam+Unlimited games: </b><br>12GB ( Jam 00-06 )<br></b><b>Masa Aktif : </b>30 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM 48GB + Unli Games 11%",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0002_004",
+                        "parentid": "6_0002",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "OWSEM48",
+                        "hex": "",
+                        "desc": "OWSEM 48GB + Unli Games 11%",
+                        "position": "4",
+                        "isUpsell": "0",
+                        "pkgid": "3212964",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "48GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.83900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "74900",
+                        "confirmDesc": "<b>Kuota Utama: </b>6GB<br><b>Kuota Sosmed+Musik: </b>12GB+12GB<br><b>Kuota Malam+Unlimited games: </b><br>18GB ( Jam 00-06 )<br></b><b>Masa Aktif : </b>30 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OWSEM 80GB + Unli Games 10%",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0002_005",
+                        "parentid": "6_0002",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "OWSEM80",
+                        "hex": "",
+                        "desc": "OWSEM 80GB + Unli Games 10%",
+                        "position": "5",
+                        "isUpsell": "0",
+                        "pkgid": "3212965",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "80GB",
+                        "subscriber_type": "",
+                        "duration": "<strike><font>Rp.104900</font></strike><br>Masa Aktif 30 hari</br>",
+                        "pkgtype": "recur",
+                        "price": "94900",
+                        "confirmDesc": "<b>Kuota Utama: </b>10GB<br><b>Kuota Sosmed+Musik: </b>20GB+20GB<br><b>Kuota Malam+Unlimited games: </b><br>30GB ( Jam 00-06 )<br></b><b>Masa Aktif : </b>30 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR Dinihari",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0018",
+                        "parentid": "6",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "“Paket Internet dengan pemakaian kuota data dari jam 00-06  dan dari jam 23-06 di jaringan 2G/3G/4G, tersedia paket mulai dari 3hari sampai dengan Bulanan”",
+                        "position": "90"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR       ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0018_001",
+                        "parentid": "6_0018",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Kuota 2GB",
+                        "position": "43",
+                        "isUpsell": "0",
+                        "pkgid": "3212850",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 3 hari",
+                        "pkgtype": "recur",
+                        "price": "5000",
+                        "confirmDesc": "Kamu pilih Paket OBOR 2GB berlangganan dg Internet kuota 2GB selama 3hari. Nikmati 2GB di jam 23-06 dinihari hanya Rp5.000. Beli paket?"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR            ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0018_002",
+                        "parentid": "6_0018",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Kuota 8GB",
+                        "position": "44",
+                        "isUpsell": "0",
+                        "pkgid": "3212851",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "8GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "18900",
+                        "confirmDesc": "Kamu pilih Paket OBOR 8GB berlangganan dg Internet kuota 8GB selama 7hari. Nikmati 8GB di jam 23-06 dinihari hanya Rp18.900. Beli paket?"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR                 ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0018_003",
+                        "parentid": "6_0018",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Kuota 14GB",
+                        "position": "45",
+                        "isUpsell": "0",
+                        "pkgid": "3212852",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "14GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 10 hari",
+                        "pkgtype": "recur",
+                        "price": "25900",
+                        "confirmDesc": "Kamu pilih Paket OBOR 14GB berlangganan dg Internet kuota 14GB selama 10hari. Nikmati 14GB di jam 23-06 dinihari hanya Rp25.900. Beli paket?"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR   ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0018_004",
+                        "parentid": "6_0018",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Kuota 5GB",
+                        "position": "46",
+                        "isUpsell": "0",
+                        "pkgid": "3210599",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "5GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "19900",
+                        "confirmDesc": "Kamu pilih Paket OBOR 5GB berlangganan dg Internet kuota 5GB selama 30hari. Nikmati 5GB di jam 00-06 dinihari hanya Rp19.900. Beli paket?"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR     ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0018_005",
+                        "parentid": "6_0018",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Kuota 10G",
+                        "position": "47",
+                        "isUpsell": "0",
+                        "pkgid": "3210600",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "10GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "39900",
+                        "confirmDesc": "Kamu pilih Paket OBOR 10GB berlangganan dg Internet kuota 10GB selama 30hari. Nikmati 10GB di jam 00-06 dinihari hanya Rp39.900. Beli paket?"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "OBOR      ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0018_006",
+                        "parentid": "6_0018",
+                        "gid": "14",
+                        "group": "Internet",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Kuota 15GB",
+                        "position": "48",
+                        "isUpsell": "0",
+                        "pkgid": "3210601",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "15GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "54900",
+                        "confirmDesc": "Kamu pilih Paket OBOR 15GB berlangganan dg Internet kuota 15GB selama 30hari. Nikmati 15GB di jam 00-06 dinihari hanya Rp54.900. Beli paket?"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0040",
+                        "parentid": "6",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BOOSTR SOSMED. Kamu bisa nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok. Tersedia paket Harian dan Mingguan.",
+                        "position": "91"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 500MB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0040_001",
+                        "parentid": "6_0040",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 500MB",
+                        "position": "92",
+                        "isUpsell": "0",
+                        "pkgid": "3213037",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "500MB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "500",
+                        "confirmDesc": "<b>Kuota : </b>500MB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 1GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0040_002",
+                        "parentid": "6_0040",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 1GB",
+                        "position": "93",
+                        "isUpsell": "0",
+                        "pkgid": "3212980",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "<b>Kuota : </b>1GB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 2GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0040_003",
+                        "parentid": "6_0040",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 2GB",
+                        "position": "94",
+                        "isUpsell": "0",
+                        "pkgid": "3213038",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1500",
+                        "confirmDesc": "<b>Kuota : </b>2GB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 1GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0040_004",
+                        "parentid": "6_0040",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 1GB",
+                        "position": "95",
+                        "isUpsell": "0",
+                        "pkgid": "3213066",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "3500",
+                        "confirmDesc": "<b>Kuota : </b>1GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 2GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0040_005",
+                        "parentid": "6_0040",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 2GB",
+                        "position": "96",
+                        "isUpsell": "0",
+                        "pkgid": "3212981",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "<b>Kuota : </b>2GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SOSMED 3GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0040_006",
+                        "parentid": "6_0040",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SOSMED 3GB",
+                        "position": "97",
+                        "isUpsell": "0",
+                        "pkgid": "3213039",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "7500",
+                        "confirmDesc": "<b>Kuota : </b>3GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi FB, IG, Twitter & Tiktok sepuasnya seharian</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0038",
+                        "parentid": "6",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BOOSTR VIDEO. Kamu bisa nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV.",
+                        "position": "92"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 500MB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0038_001",
+                        "parentid": "6_0038",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 500MB",
+                        "position": "80",
+                        "isUpsell": "0",
+                        "pkgid": "3213032",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "500MB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "500",
+                        "confirmDesc": "<b>Kuota : </b>500MB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 1GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0038_002",
+                        "parentid": "6_0038",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 1GB",
+                        "position": "81",
+                        "isUpsell": "0",
+                        "pkgid": "3212966",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "<b>Kuota : </b>1GB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 2GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0038_003",
+                        "parentid": "6_0038",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 2GB",
+                        "position": "82",
+                        "isUpsell": "0",
+                        "pkgid": "3213033",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1500",
+                        "confirmDesc": "<b>Kuota : </b>2GB <br><b>Masa Aktif : </b>1 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 1GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0038_004",
+                        "parentid": "6_0038",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 1GB",
+                        "position": "83",
+                        "isUpsell": "0",
+                        "pkgid": "3213064",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "3500",
+                        "confirmDesc": "<b>Kuota : </b>1GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 2GB",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0038_005",
+                        "parentid": "6_0038",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 2GB",
+                        "position": "84",
+                        "isUpsell": "0",
+                        "pkgid": "3212967",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "<b>Kuota : </b>2GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR VIDEO 3GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0038_006",
+                        "parentid": "6_0038",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR VIDEO 3GB",
+                        "position": "85",
+                        "isUpsell": "0",
+                        "pkgid": "3213049",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "7500",
+                        "confirmDesc": "<b>Kuota : </b>3GB <br><b>Masa Aktif : </b>7 Hari<br>Nikmati kuota untuk aplikasi nonton Youtube, Netflix, VIU, Kwaigo dan NIMO TV</br>"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0041",
+                        "parentid": "6",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BOOSTR GAMES. Kamu bisa nikmati kuota untuk aplikasi HAGO, AOV, FreeFire, MobileLegend, Vainglory, ASPALT9, ModernCombat5. Tersedia paket Harian dan Mingguan.",
+                        "position": "93"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES 500MB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0041_001",
+                        "parentid": "6_0041",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR GAMES 500MB",
+                        "position": "98",
+                        "isUpsell": "0",
+                        "pkgid": "3213040",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "500MB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "500",
+                        "confirmDesc": "Kamu pilih BOOSTR GAMES 500MB 1hr Rp500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Games yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES 1GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0041_002",
+                        "parentid": "6_0041",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR GAMES 1GB",
+                        "position": "99",
+                        "isUpsell": "0",
+                        "pkgid": "3213041",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "Kamu pilih BOOSTR GAMES 1GB 1hr Rp1000. Cek di https://axisnet.id/boostr untuk lihat aplikasi Games yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES 2GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0041_003",
+                        "parentid": "6_0041",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR GAMES 2GB",
+                        "position": "100",
+                        "isUpsell": "0",
+                        "pkgid": "3213052",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1500",
+                        "confirmDesc": "Kamu pilih BOOSTR GAMES 2GB 1hr Rp1500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Games yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES 1GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0041_004",
+                        "parentid": "6_0041",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR GAMES 1GB",
+                        "position": "101",
+                        "isUpsell": "0",
+                        "pkgid": "3213067",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "3500",
+                        "confirmDesc": "Kamu pilih BOOSTR GAMES 1GB 7hr Rp3500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Games yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES 2GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0041_005",
+                        "parentid": "6_0041",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR GAMES 2GB",
+                        "position": "102",
+                        "isUpsell": "0",
+                        "pkgid": "3213092",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "Kamu pilih BOOSTR GAMES 2GB 7hr Rp5500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Games yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR GAMES 3GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0041_006",
+                        "parentid": "6_0041",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR GAMES 3GB",
+                        "position": "103",
+                        "isUpsell": "0",
+                        "pkgid": "3213093",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "7500",
+                        "confirmDesc": "Kamu pilih BOOSTR GAMES 3GB 7hr Rp7500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Games yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0039",
+                        "parentid": "6",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BOOSTR MUSIK. Kamu bisa nikmati kuota untuk aplikasi JOOX dan Smule. Tersedia paket Harian dan Mingguan.",
+                        "position": "94"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK 500MB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0039_001",
+                        "parentid": "6_0039",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR MUSIK 500MB",
+                        "position": "86",
+                        "isUpsell": "0",
+                        "pkgid": "3213034",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "500MB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "500",
+                        "confirmDesc": "Kamu pilih BOOSTR MUSIK 500MB 1hr Rp500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Musik yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK 1GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0039_002",
+                        "parentid": "6_0039",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR MUSIK 1GB",
+                        "position": "87",
+                        "isUpsell": "0",
+                        "pkgid": "3213035",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "Kamu pilih BOOSTR MUSIK 1GB 1hr Rp1000. Cek di https://axisnet.id/boostr untuk lihat aplikasi Musik yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK 2GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0039_003",
+                        "parentid": "6_0039",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR MUSIK 2GB",
+                        "position": "88",
+                        "isUpsell": "0",
+                        "pkgid": "3213036",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1500",
+                        "confirmDesc": "Kamu pilih BOOSTR MUSIK 2GB 1hr Rp1500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Musik yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK 1GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0039_004",
+                        "parentid": "6_0039",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR MUSIK 1GB",
+                        "position": "89",
+                        "isUpsell": "0",
+                        "pkgid": "3213065",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "3500",
+                        "confirmDesc": "Kamu pilih BOOSTR MUSIK 1GB 7hr Rp3500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Musik yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK 2GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0039_005",
+                        "parentid": "6_0039",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR MUSIK 2GB",
+                        "position": "90",
+                        "isUpsell": "0",
+                        "pkgid": "3213050",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "Kamu pilih BOOSTR MUSIK 2GB 7hr Rp5500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Musik yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR MUSIK 3GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0039_006",
+                        "parentid": "6_0039",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR MUSIK 3GB",
+                        "position": "91",
+                        "isUpsell": "0",
+                        "pkgid": "3213051",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "7500",
+                        "confirmDesc": "Kamu pilih BOOSTR MUSIK 3GB 7hr Rp7500. Cek di https://axisnet.id/boostr untuk lihat aplikasi Musik yang dapat kamu akses ya!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0042",
+                        "parentid": "6",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Paket BOOSTR SUNSET. Kamu bisa nikmati kuota di jam 17-20 WIB di jaringan 2G3G4G. Tersedia paket Harian dan Mingguan.",
+                        "position": "95"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET 500MB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0042_001",
+                        "parentid": "6_0042",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SUNSET 500MB",
+                        "position": "104",
+                        "isUpsell": "0",
+                        "pkgid": "3213070",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "500MB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "500",
+                        "confirmDesc": "Kamu pilih BOOSTR SUNSET 500MB 1hr Rp500. Nikmati kuota Internet utama di jam 17-20 WIB!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET 1GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0042_002",
+                        "parentid": "6_0042",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SUNSET 1GB",
+                        "position": "105",
+                        "isUpsell": "0",
+                        "pkgid": "3213071",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "Kamu pilih BOOSTR SUNSET 1GB 1hr Rp1000. Nikmati kuota Internet utama di jam 17-20 WIB!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET 2GB 1hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0042_003",
+                        "parentid": "6_0042",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SUNSET 2GB",
+                        "position": "106",
+                        "isUpsell": "0",
+                        "pkgid": "3213072",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1500",
+                        "confirmDesc": "Kamu pilih BOOSTR SUNSET 2GB 1hr Rp1500. Nikmati kuota Internet utama di jam 17-20 WIB!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET 1GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0042_004",
+                        "parentid": "6_0042",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SUNSET 1GB",
+                        "position": "107",
+                        "isUpsell": "0",
+                        "pkgid": "3213073",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "3500",
+                        "confirmDesc": "Kamu pilih BOOSTR SUNSET 1GB 7hr Rp3500. Nikmati kuota Internet utama di jam 17-20 WIB!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET 2GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0042_005",
+                        "parentid": "6_0042",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SUNSET 2GB",
+                        "position": "108",
+                        "isUpsell": "0",
+                        "pkgid": "3213074",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "2GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "5500",
+                        "confirmDesc": "Kamu pilih BOOSTR SUNSET 2GB 7hr Rp5500. Nikmati kuota Internet utama di jam 17-20 WIB!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "BOOSTR SUNSET 3GB 7hr",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0042_006",
+                        "parentid": "6_0042",
+                        "gid": "23",
+                        "group": "**NEW BOOSTR**",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "BOOSTR SUNSET 3GB",
+                        "position": "109",
+                        "isUpsell": "0",
+                        "pkgid": "3213075",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3GB",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "7500",
+                        "confirmDesc": "Kamu pilih BOOSTR SUNSET 3GB 7hr Rp7500. Nikmati kuota Internet utama di jam 17-20 WIB!"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "KANGEN",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0009",
+                        "parentid": "6",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "“Paket nelpon ke Operator lain (termasuk nomor tujuan telepon local dan interlocal) hanya \r\nberlaku untuk pelanggan prabayar AXIS. Tersedia paket harian, mingguan dan bulanan”",
+                        "position": "96"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "KANGEN ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0009_001",
+                        "parentid": "6_0009",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 10mnt",
+                        "position": "31",
+                        "isUpsell": "0",
+                        "pkgid": "1210766",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "10mnt",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "3900",
+                        "confirmDesc": "<b>Kuota:</b>10 menit<br><b>Masa Aktif:</b>1 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "KANGEN  ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0009_002",
+                        "parentid": "6_0009",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 30mnt",
+                        "position": "32",
+                        "isUpsell": "0",
+                        "pkgid": "1210767",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "30mnt",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "9900",
+                        "confirmDesc": "<b>Kuota:</b>30 menit<br><b>Masa Aktif:</b>7 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "KANGEN   ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0009_003",
+                        "parentid": "6_0009",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 100mnt",
+                        "position": "33",
+                        "isUpsell": "0",
+                        "pkgid": "1210768",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "100mnt",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 30 hari",
+                        "pkgtype": "recur",
+                        "price": "29900",
+                        "confirmDesc": "<b>Kuota:</b>100 menit<br><b>Masa Aktif:</b>30 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "CURHAT",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0006",
+                        "parentid": "6",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "\"Paket Nelpon ke sesama nomor AXIS yang IRIT Banget mulai Rp888. Tersedia Paket CURHAT Harian dan Mingguan\"",
+                        "position": "97"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "CURHAT 24Jam Harian",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0006_001",
+                        "parentid": "6_0006",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 20mnt+20SMS",
+                        "position": "24",
+                        "isUpsell": "0",
+                        "pkgid": "1210656",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "Harian",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "888",
+                        "confirmDesc": "<b>Nelpon:</b>20 Menit<br><b>SMS 20:</b>SEHARIAN <br><b>Masa Aktif:</b>1 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "CURHAT Harian ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0006_002",
+                        "parentid": "6_0006",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 1000mnt",
+                        "position": "25",
+                        "isUpsell": "0",
+                        "pkgid": "1110163",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "Harian",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "1000",
+                        "confirmDesc": "<b>1000 Menit:</b>SEHARIAN<br><b>Masa Aktif:</b>1 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "CURHAT  Mingguan ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0006_003",
+                        "parentid": "6_0006",
+                        "gid": "15",
+                        "group": "Telepon dan SMS",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 10000mnt",
+                        "position": "26",
+                        "isUpsell": "0",
+                        "pkgid": "1110164",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "Mingguan",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "6000",
+                        "confirmDesc": "<b>10000 Menit:</b>SEHARIAN<br><b>Masa Aktif:</b>7 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "INTERNET MABRUR",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0012",
+                        "parentid": "6",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Spesial paket untuk kamu gunakan selama ibadah Umroh & Haji. Kamu bisa Internet SEPUASNYA dengan harga mulai dari Rp199ribu.",
+                        "position": "98"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "INTERNET MABRUR     ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_004",
+                        "parentid": "6_0012",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Internet Sepuasnya",
+                        "position": "37",
+                        "isUpsell": "0",
+                        "pkgid": "3110132",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "10 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 10 hari",
+                        "pkgtype": "recur",
+                        "price": "199000",
+                        "confirmDesc": "<b>Kuota:</b>Internet SEPUASNYA<br><b>Masa Aktif:</b>10 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "INTERNET MABRUR      ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_005",
+                        "parentid": "6_0012",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Internet Sepuasnya",
+                        "position": "38",
+                        "isUpsell": "0",
+                        "pkgid": "3110133",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "20 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 20 hari",
+                        "pkgtype": "recur",
+                        "price": "249000",
+                        "confirmDesc": "<b>Kuota:</b>Internet SEPUASNYA<br><b>Masa Aktif:</b>20 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "INTERNET MABRUR            ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_006",
+                        "parentid": "6_0012",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Internet Sepuasnya",
+                        "position": "39",
+                        "isUpsell": "0",
+                        "pkgid": "3110134",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "40 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 40 hari",
+                        "pkgtype": "recur",
+                        "price": "379000",
+                        "confirmDesc": "<b>Kuota:</b>Internet SEPUASNYA<br><b>Masa Aktif:</b>40 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "AXIS PASS",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0037",
+                        "parentid": "6",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Pastikan AXIS PASS aktif, kuota BRONET 24Jam masih ada utk bisa internetan di negara tujuan, hanya BRONET 5GB /lbh yang kuotanya bisa dipakai dg AXIS PASS, pastikan settingan APN-mu: axis (username: axis, pass: 123456). Info lebih lanjut CS 838",
+                        "position": "99"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "AXIS PASS 1hr, Rp85rb",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0037_001",
+                        "parentid": "6_0037",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "AXIS PASS 1hr",
+                        "position": "77",
+                        "isUpsell": "0",
+                        "pkgid": "3110140",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "1hr",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 1 hari",
+                        "pkgtype": "recur",
+                        "price": "85000",
+                        "confirmDesc": "<b>Kuota : </b><b>1hr</b><br><b>Harga : <b/>85.000<br><b>Nikmati AXIS PASS utk bisa pakai kuota BRONET 24Jam selama berada di luar negeri"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "AXIS PASS 3hr, Rp150rb",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0037_002",
+                        "parentid": "6_0037",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "AXIS PASS 3hr",
+                        "position": "78",
+                        "isUpsell": "0",
+                        "pkgid": "3110141",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "3hr",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 3 hari",
+                        "pkgtype": "recur",
+                        "price": "150000",
+                        "confirmDesc": "<b>Kuota : </b><b>3hr</b><br><b>Harga : <b/>150.000<br><b>Nikmati AXIS PASS utk bisa pakai kuota BRONET 24Jam selama berada di luar negeri"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "AXIS PASS 7hr, Rp250rb",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0037_003",
+                        "parentid": "6_0037",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "AXIS PASS 7hr",
+                        "position": "79",
+                        "isUpsell": "0",
+                        "pkgid": "3110142",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "7hr",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 7 hari",
+                        "pkgtype": "recur",
+                        "price": "250000",
+                        "confirmDesc": "<b>Kuota : </b><b>7hr</b><br><b>Harga : <b/>250.000<br><b>Nikmati AXIS PASS utk bisa pakai kuota BRONET 24Jam selama berada di luar negeri"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "COMBO MABRUR",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0010",
+                        "parentid": "6",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Spesial paket untuk kamu gunakan selama ibadah Umroh & Haji. Kamu bisa Nelpon, SMS & Internet SEPUASNYA dengan harga mulai dari Rp299ribu.",
+                        "position": "100"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "COMBO MABRUR  ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_001",
+                        "parentid": "6_0010",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Internet SEPUASNYA + 50mins + 50SMS",
+                        "position": "34",
+                        "isUpsell": "0",
+                        "pkgid": "3110129",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "10 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 10 hari",
+                        "pkgtype": "recur",
+                        "price": "299000",
+                        "confirmDesc": "<b>Kuota:</b>50 Menit + 50 SMS<br><b>Internet SEPUASNYA</b><br><b>Masa Aktif:</b>10 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "COMBO MABRUR      ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_002",
+                        "parentid": "6_0010",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Internet SEPUASNYA + 75mins + 75SMS",
+                        "position": "35",
+                        "isUpsell": "0",
+                        "pkgid": "3110130",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "20 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 20 hari",
+                        "pkgtype": "recur",
+                        "price": "399000",
+                        "confirmDesc": "<b>Kuota:</b>75 Menit + 75 SMS<br><b>Internet SEPUASNYA</b><br><b>Masa Aktif:</b>20 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "COMBO MABRUR        ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_003",
+                        "parentid": "6_0010",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Internet SEPUASNYA + 100mins + 100 SMS",
+                        "position": "36",
+                        "isUpsell": "0",
+                        "pkgid": "3110131",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "40 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 40 hari",
+                        "pkgtype": "recur",
+                        "price": "549000",
+                        "confirmDesc": "<b>Kuota:</b>100 Menit + 100 SMS<br><b>Internet SEPUASNYA</b><br><b>Masa Aktif:</b>40 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "MABRUR Nelp&SMS",
+                    "@attributes": {
+                        "href": "#",
+                        "hrefweb": "#recommended",
+                        "id": "6_0011",
+                        "parentid": "6",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Spesial paket untuk kamu gunakan selama ibadah Umroh & Haji. Kamu bisa nelpon ke nomor Indonesia/Arab Saudi dan SMS ke semua OPERATOR dengan harga mulai dari Rp149ribu.",
+                        "position": "101"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "MABRUR Nelp&SMS            ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_007",
+                        "parentid": "6_0011",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 50mins + 50 SMS",
+                        "position": "40",
+                        "isUpsell": "0",
+                        "pkgid": "1110166",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "10 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 10 hari",
+                        "pkgtype": "recur",
+                        "price": "149000",
+                        "confirmDesc": "<b>50 Menit + 50 SMS:</b>Semua Operator<br><b>Masa Aktif:</b>10 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "MABRUR Nelp&SMS             ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_008",
+                        "parentid": "6_0011",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 75mins + 75 SMS",
+                        "position": "41",
+                        "isUpsell": "0",
+                        "pkgid": "1110167",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "20 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 20 hari",
+                        "pkgtype": "recur",
+                        "price": "179000",
+                        "confirmDesc": "<b>75 Menit + 75 SMS:</b>Semua Operator<br><b>Masa Aktif:</b>20 Hari"
+                    }
+                }
+            },
+            {
+                "menu": {
+                    "0": "MABRUR Nelp&SMS                ",
+                    "@attributes": {
+                        "href": "#buy_package",
+                        "hrefweb": "#",
+                        "id": "6_0012_009",
+                        "parentid": "6_0011",
+                        "gid": "24",
+                        "group": "ROAMING",
+                        "icon": "",
+                        "hex": "",
+                        "desc": "Voice 100mins + 100 SMS",
+                        "position": "42",
+                        "isUpsell": "0",
+                        "pkgid": "1110168",
+                        "pkggroup": "data",
+                        "payment_method": "nc",
+                        "isPackageBasic": "basic",
+                        "volume": "40 Hari",
+                        "subscriber_type": "",
+                        "duration": "Masa Aktif 40 hari",
+                        "pkgtype": "recur",
+                        "price": "199000",
+                        "confirmDesc": "<b>100 Menit + 100 SMS:</b>Semua Operator<br><b>Masa Aktif:</b>40 Hari"
+                    }
+                }
+            }
+        ]
+    },
+    "home": [
+        {
+            "menu": {
+                "0": "BELI PAKET",
+                "@attributes": {
+                    "href": "#package",
+                    "hrefweb": "#package",
+                    "id": "6",
+                    "parentid": "0",
+                    "gid": "20",
+                    "group": "Beranda",
+                    "icon": "6",
+                    "hex": "36",
+                    "desc": "",
+                    "position": "4"
+                }
+            }
+        }
+    ],
+    "sidemenu": [
+        {
+            "menu": {
+                "0": "",
+                "@attributes": {
+                    "href": "",
+                    "hrefweb": "",
+                    "id": "",
+                    "parentid": "",
+                    "gid": "",
+                    "group": "",
+                    "icon": "",
+                    "hex": "",
+                    "desc": "",
+                    "position": ""
+                }
+            }
+        }
+    ],
+    "balancesubmenu": [
+        {
+            "menu": {
+                "0": "",
+                "@attributes": {
+                    "href": "",
+                    "hrefweb": "",
+                    "id": "",
+                    "parentid": "",
+                    "gid": "",
+                    "group": "",
+                    "icon": "",
+                    "hex": "",
+                    "desc": "",
+                    "position": ""
+                }
+            }
+        }
+    ]
+}

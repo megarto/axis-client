@@ -16,7 +16,21 @@ import { Select, MenuItem } from '@material-ui/core';
 const axios = require('axios');
 const qs = require('querystring');
 
-const pkgids = require('./pkgids.json');
+function getIds() {
+  
+  const jsonIds = require('./pkgids.json');
+
+  let a = jsonIds[0]["result"];
+  let data = [];
+  
+  a.forEach(function(m) {
+    if(m.menu['@attributes']['pkgid']) {
+        data.push(m.menu['@attributes'])
+    }
+  })
+  return data;
+} 
+
 
 
 function Copyright() {
@@ -61,6 +75,7 @@ const useStyles = makeStyles((theme) => ({
 
 function App() {
   const classes = useStyles();
+  const pkgIds = getIds();
 
   const [otp, setOtp] = React.useState('');
   const [msisdn, setMsisdn] = React.useState('');
@@ -146,7 +161,17 @@ function App() {
           axios.post('https://axisnets.herokuapp.com/newaxisnet/oasys/package/buy', qs.stringify(body), config)
             .then(response => {
               setLoading(false);
-              setResponse(JSON.stringify(response.data));
+
+              let res = response.data;
+              if(res.status === '1') {
+                const {message} = res;
+                setResponse(message);
+              }
+              else {
+                const {err_code, err_desc} = res;
+                setResponse(JSON.stringify({err_code, err_desc}));
+              }
+              
             })
             .catch(err => {
               setLoading(false);
@@ -246,8 +271,10 @@ function App() {
             onChange={handlePkgid}>
             <MenuItem value="">
             <em>Pilih Paket </em>
+            
             </MenuItem>
-            {pkgids.map((pkg,i)=><MenuItem key={i} value={pkg.pkgid}>{pkg.title}</MenuItem>)}
+          {pkgIds.map((pkg, i)=> <MenuItem key={i} value={pkg.pkgid}>{pkg.desc}</MenuItem>)}
+            
           </Select>
           }
           <Button
@@ -263,6 +290,8 @@ function App() {
         
         </form>
         <p>{loading?'Loading....':response}</p>
+
+       
       </div>
       <Box mt={8}>
         <Copyright />
