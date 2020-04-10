@@ -1,5 +1,7 @@
 Project Ini dibuat dengan [Create React App](https://github.com/facebook/create-react-app).
 
+## `DEMO`
+Visit [https://axis-client-rg0ppr6h5.now.sh/](https://axis-client-rg0ppr6h5.now.sh/)
 
 ## `INSTALL`
 
