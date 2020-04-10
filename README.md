@@ -1,7 +1,7 @@
 Project Ini dibuat dengan [Create React App](https://github.com/facebook/create-react-app).
 
-## git clone https://github.com/adipatiarya/axis-client.git
-## cd axis-client
+## `git clone https://github.com/adipatiarya/axis-client.git`
+##  `cd axis-client`
 
 ### `npm install`
 Menginstall Semua dependecy yg dibutuhkan.
